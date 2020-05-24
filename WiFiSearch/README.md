@@ -1,6 +1,6 @@
 # WiFiSearch
 
-WiFiSearch - это скрипт, который позволи найти на каких улицах Москвы больше всего халявных wi-fi точек.
+WiFiSearch - это скрипт, который позволит найти на каких улицах Москвы больше всего халявных wi-fi точек.
 Для работы скрипта потребуются данные о wi-fi точках с сайта [открытых данных Москвы](https://data.mos.ru/opendata?categoryId=121).
 
 
@@ -26,7 +26,7 @@ WiFiSearch - это скрипт, который позволи найти на 
 
 Установите библеотеки, необходимые для работы, перечисленные в `requirements.txt`.
 
-Для работы с Yandex geocoder API, получите API ключ в [кабинете разработчика](https://developer.tech.yandex.ru/services/) и сохраните его в файле `settings.py`:
+Для работы с Yandex geocoder API, получите API ключ в [кабинете разработчика](https://developer.tech.yandex.ru/services/) и сохраните его в файле `settings.py` в формате:
 
     API_KEY = "bcc59a3b-d7d5-36аe-84сb-5а178e2edbe6"
 
