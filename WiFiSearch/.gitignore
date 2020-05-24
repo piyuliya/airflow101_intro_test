@@ -1,0 +1,7 @@
+env
+*.log
+.env
+__pycache__
+*.DS_Store
+settings.py
+*.json
